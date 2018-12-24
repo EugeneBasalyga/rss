@@ -1,0 +1,12 @@
+C:\Users\Eugene\Desktop\meh\5 семестр\СПП\lab4spp\lab4spp\bin\Debug\lab4spp.exe.config
+C:\Users\Eugene\Desktop\meh\5 семестр\СПП\lab4spp\lab4spp\bin\Debug\lab4spp.exe
+C:\Users\Eugene\Desktop\meh\5 семестр\СПП\lab4spp\lab4spp\bin\Debug\lab4spp.pdb
+C:\Users\Eugene\Desktop\meh\5 семестр\СПП\lab4spp\lab4spp\obj\Debug\lab4spp.csprojAssemblyReference.cache
+C:\Users\Eugene\Desktop\meh\5 семестр\СПП\lab4spp\lab4spp\obj\Debug\lab4spp.MainForm.resources
+C:\Users\Eugene\Desktop\meh\5 семестр\СПП\lab4spp\lab4spp\obj\Debug\lab4spp.Properties.Resources.resources
+C:\Users\Eugene\Desktop\meh\5 семестр\СПП\lab4spp\lab4spp\obj\Debug\lab4spp.csproj.GenerateResource.cache
+C:\Users\Eugene\Desktop\meh\5 семестр\СПП\lab4spp\lab4spp\obj\Debug\lab4spp.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\Desktop\meh\5 семестр\СПП\lab4spp\lab4spp\obj\Debug\lab4spp.exe
+C:\Users\Eugene\Desktop\meh\5 семестр\СПП\lab4spp\lab4spp\obj\Debug\lab4spp.pdb
+C:\Users\Eugene\Desktop\meh\5 семестр\СПП\lab4spp\lab4spp\obj\Debug\lab4spp.FilterForm.resources
+C:\Users\Eugene\Desktop\meh\5 семестр\СПП\lab4spp\lab4spp\obj\Debug\lab4spp.EmailsForm.resources
